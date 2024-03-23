@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de DiegoGiEscobar 😁
+## Welcome to DiegoGiEscobar's profile 😁
 
  <div>
    <a href="https://github.com/DiegoGiEscobar">
@@ -14,9 +14,12 @@
  
 <br>
  
-### Para entrar em contato, você pode me encontrar aqui!
+### Connect with me here
  
 <div> 
+  
   <a href="https://instagram.com/diegorodrigoescobar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/diego-escobar-67a385276" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me/777561092930273311" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:diegogiselevivasescobar2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-rodrigo-337b5284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
